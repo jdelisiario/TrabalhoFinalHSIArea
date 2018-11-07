@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476983124 source:c:\users\jaciara\documents\arquivos vii semestre\processamento digital de imagens\trabalhofinal\trabalhofinalhsiarea\main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+	<string>
+	<vector>
+
